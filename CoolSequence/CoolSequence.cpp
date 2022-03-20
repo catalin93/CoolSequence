@@ -69,5 +69,5 @@ int main()
 	std::cout << "Elemntul maxim dintr-o sectiune cool este: " << maxs << std::endl;
 	
 
-	return 0;
+	return 0; 
 }
